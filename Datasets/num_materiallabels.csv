@@ -1,0 +1,22 @@
+,Material_Codes,Material Number Labels,Material_Labels
+0,TOTAL,244,Total
+1,PAPER,245,Paper and cardboard
+2,PLAST_RUB,246,Plastics including rubber
+3,PLAST,247,Plastics
+4,RUB,248,Rubber
+5,WD,249,Wood
+6,TEXT,250,Textiles
+7,TEXT_SYN,251,Textiles - synthetic
+8,TEXT_NTL,252,Textiles - natural
+9,GLAS,253,Glass
+10,ORG,254,Organic
+11,ORG_ANI,255,Organic - animal origin
+12,ORG_VEG,256,Organic - vegetal origin
+13,MIN,257,Mineral
+14,MT,258,Metal
+15,MT_FER,259,Metal - ferrous
+16,MT_NFER,260,Metal - non ferrous
+17,MT_NFER_PRE,261,Metal - non ferrous - precious metals
+18,MT_NFER_CAN,262,Metal - non ferrous - copper aluminium and nickel
+19,MT_NFER_OTH,263,Metal - non ferrous - other
+20,NSP,264,Not specified
