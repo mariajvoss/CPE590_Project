@@ -80,5 +80,5 @@ print(aggregate_trash.columns.tolist())
 top26_numlabels = aggregate_trash[['stk_flow', 'rawmat', 'Material_Labels', 'Material Number Labels', 'partner', 'Partner_Labels', 'Partner Number Labels', 'geo', 'Geo_Labels', 'Geo Number Labels', 'OBS_VALUE']]
 print(type(top26_numlabels))
 
-#top26_numlabels.to_csv('VossMaria_CPE_590_Project/Datasets/top26_numlabels.csv')
+top26_numlabels.to_csv('VossMaria_CPE_590_Project/Datasets/top26_numlabels.csv')
 
